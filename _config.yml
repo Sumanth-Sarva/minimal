@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: <p align="center"> Sumanth Sarva </p>
+logo: /assets/img/logo.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sumanth-sarva-m-a715a5175">LinkedIn</a> |
+  <a href="https://github.com/Sumanth-Sarva">GitHub</a>
+ 
+  <br>  
+  I'm beginner in Machine Learning and Deep learning.
+  Have good knowledge on Python and SQL.
+  Working with Infosys in Cyber-Sec domain.
+  
+  <br>
+  </p>
